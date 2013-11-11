@@ -1,0 +1,17 @@
+{
+  "name": "button-sizes",
+  "repo": "bottom/button-sizes",
+  "description": "Base button sizes",
+  "version": "0.0.1",
+  "paths": ["../"],
+  "local": [],
+  "keywords": [],
+  "dependencies": {
+    "bottom/button": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "styles": [
+    "css/button-sizes.css"
+  ]
+}
